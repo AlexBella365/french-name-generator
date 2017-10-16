@@ -101,5 +101,4 @@ ENV/
 .floydignore
 
 ###### Alex 
-US_Cities.txt
-
+.DS_Store
